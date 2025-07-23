@@ -60,6 +60,8 @@ Welcome to **Online Notes Sharing System** – a simple, elegant, and efficient 
 
  -🤝 Contributing
 
- **Contributions are welcome! Please fork this repository, make your changes in a branch, and submit a pull request. For major changes, open an issue first to discuss what you'd like to change.
+
+
+**Contributions are welcome! Please fork this repository, make your changes in a branch, and submit a pull request. For major changes, open an issue first to discuss what you'd like to change.
 
 
